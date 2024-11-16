@@ -52,5 +52,5 @@ This dashboard aims to:
 - **Excel/SQL** for data cleaning and transformation.
 - **DAX** for advanced measures and calculations.
 
-Feel free to explore the dashboard to understand how Vrinda Store can maximize its sales and operational efficiency in the competitive retail environment!
+
 
